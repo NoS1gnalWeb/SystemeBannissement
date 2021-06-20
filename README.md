@@ -1,4 +1,4 @@
-# SystemeBannissement
+# Systeme de Bannissement
 Système de bannissement en PHP.
 
 Explication du code : https://www.youtube.com/watch?v=ETV-4a9SZFk
